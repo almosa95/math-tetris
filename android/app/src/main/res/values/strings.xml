@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MathTetris</string>
+    <string name="title_activity_main">MathTetris</string>
+    <string name="package_name">com.albertodeveloper.mathtetris</string>
+    <string name="custom_url_scheme">com.albertodeveloper.mathtetris</string>
+</resources>
